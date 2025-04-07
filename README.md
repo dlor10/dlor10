@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @dlor10
 - 👀 I’m interested in Web Development and coding in general.
-- 🌱 I’m currently learning html/css/javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning html/css/javascript/python/java. In the future, I want to learn C++.
 
 <!---
 dlor10/dlor10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
